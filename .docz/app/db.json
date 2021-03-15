@@ -1,0 +1,75 @@
+{
+  "config": {
+    "title": "blink",
+    "description": "An blink blink component of react",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": false,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {
+      "mode": "light"
+    },
+    "separator": "-",
+    "typescript": false,
+    "theme": "/Users/nf/Desktop/nf/github/blink/node_modules/_docz-theme-umi@2.1.1@docz-theme-umi/es/index.js",
+    "plugins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "entries": [
+    {
+      "key": "src/components/Blink/index.mdx",
+      "value": {
+        "name": "Blink",
+        "route": "/blink",
+        "order": 9,
+        "sidebar": true,
+        "id": "ae2811028501f3073399b70c5d97074b",
+        "filepath": "src/components/Blink/index.mdx",
+        "link": "https://github.com/MrXujiang/blink/edit/master/src/components/Blink/index.mdx",
+        "slug": "src-components-blink-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "blink",
+            "depth": 1,
+            "value": "Blink"
+          },
+          {
+            "slug": "默认样式",
+            "depth": 2,
+            "value": "默认样式"
+          },
+          {
+            "slug": "自定义文字颜色",
+            "depth": 2,
+            "value": "自定义文字颜色"
+          },
+          {
+            "slug": "自定义背景色",
+            "depth": 2,
+            "value": "自定义背景色"
+          },
+          {
+            "slug": "设置字体大小和背景透明",
+            "depth": 2,
+            "value": "设置字体大小和背景透明"
+          },
+          {
+            "slug": "基本用法",
+            "depth": 2,
+            "value": "基本用法"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
